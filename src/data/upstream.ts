@@ -75,6 +75,9 @@ const codeModules = import.meta.glob<CodeModule>(
     "/external/pocketjs/hosts/iphone2g/armv6-apple-ios.json",
     "/external/pocketjs/hosts/iphone4s/armv7-apple-ios.json",
     "/external/pocketjs/hosts/meizu-m8/armv6-wince-asm.json",
+    "/external/pocketjs/hosts/3ds/src/main.c",
+    "/external/pocketjs/hosts/3ds/src/gfx.c",
+    "/external/pocketjs/tools/3ds-profile.ts",
   ],
   { query: "?code" },
 );
