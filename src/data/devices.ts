@@ -11,6 +11,7 @@ import { meizuM8 } from "./devices/meizu-m8";
 import { nokiaE7 } from "./devices/nokia-e7";
 import { iphone4s } from "./devices/iphone-4s";
 import { vita } from "./devices/vita";
+import { nintendo3ds } from "./devices/nintendo-3ds";
 import { ipodTouch } from "./devices/ipod-touch";
 import { meowbit } from "./devices/meowbit";
 import { playdate } from "./devices/playdate";
@@ -31,6 +32,7 @@ export const devices: readonly Device[] = [
   nokiaE7,
   iphone4s,
   vita,
+  nintendo3ds,
   ipodTouch,
   meowbit,
   playdate,
