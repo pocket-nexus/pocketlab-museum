@@ -9,7 +9,7 @@ code.
 | | |
 | --- | --- |
 | **Exhibits** | `src/data/devices/*.ts` — curated hardware sheets, plaque text, photographs with credits |
-| **Upstream** | `external/pocketjs` — a pinned git submodule of [pocket-stack/pocketjs](https://github.com/pocket-stack/pocketjs); bring-up docs, target profiles, board files, blog metadata and example code are read from it at build time |
+| **Upstream** | `external/pocketjs` — a pinned git submodule of [pocket-nexus/pocketjs](https://github.com/pocket-nexus/pocketjs); bring-up docs, target profiles, board files, blog metadata and example code are read from it at build time |
 | **Stack** | Vue 3 · Vite · vue-router · vite-ssg (static pages) · Tailwind CSS v4 · markdown-it + shiki at build time |
 | **Design** | [`DESIGN.md`](DESIGN.md) — principles, palette, type, layout, components |
 | **Working rules** | [`CLAUDE.md`](CLAUDE.md) (`AGENTS.md` is a symlink) |
